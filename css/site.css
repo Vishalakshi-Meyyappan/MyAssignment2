@@ -4,6 +4,8 @@
             width: 100%;
             padding: 0;
             margin: 0;
+	#new
+	    margin: 8;
         }
         @font-face{
             font-family: "Segoe UI";
@@ -31,7 +33,7 @@
         .success-text {
             padding-bottom: 20px;
             font-size: 62px;
-            line-height: 73px;
+            line-height: 74px;
         }
 
         .description {
